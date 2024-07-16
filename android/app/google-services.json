@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "396017970102",
+    "project_id": "shopnestt-f544d",
+    "storage_bucket": "shopnestt-f544d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396017970102:android:b8339014af1f5fc2572f17",
+        "android_client_info": {
+          "package_name": "com.example.shopnestt_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396017970102-q0qjceav0nf47k39sh7i9gn9f0slkdbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopnestt_new",
+            "certificate_hash": "924743f43ac77b12f6ee1f27a330c1c898f85d32"
+          }
+        },
+        {
+          "client_id": "396017970102-9om47ovnatkdc61d8o24fbd1f8arfh82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJDmkbn8YC6d4wybluU12oprfsDqMcGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396017970102-9om47ovnatkdc61d8o24fbd1f8arfh82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
